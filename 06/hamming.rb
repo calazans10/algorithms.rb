@@ -1,4 +1,4 @@
-def hamming(a, b)
+def hamming_distance(a, b)
   a = a.sum
   b = b.sum
 
